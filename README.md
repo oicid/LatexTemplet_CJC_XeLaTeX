@@ -1,2 +1,2 @@
 # LatexTemplet_CJC_XeLaTeX
-计算机学报Latex模板overleaf适配版，一并修复了一些bug，添加了参考文献样式
+计算机学报Latex模板overleaf适配版，一并修复了一些bug，添加了参考文献样式，overleaf xelatex编译通过。
